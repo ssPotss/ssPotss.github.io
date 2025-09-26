@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>My GitHub Website</title>
+  <style>
+    body {
+      background-color: black;  /* sets background to black */
+      color: red;              /* sets all text to red */
+      font-family: Arial, sans-serif;
+      text-align: center;
+      padding: 50px;
+    }
+    h1 {
+      font-size: 3em;
+    }
+  </style>
+</head>
+<body>
+  <h1>Welcome to My Website</h1>
+  <p>This is my GitHub Pages site with a black background and red text!</p>
+</body>
+</html>
