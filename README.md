@@ -1,3 +1,6 @@
 # ssPotss.github.io
-Blog
+
 hello lads
+
+9/25/25
+feeling like piss today
