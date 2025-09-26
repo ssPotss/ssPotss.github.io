@@ -1,5 +1,3 @@
-# ssPotss.github.io
-
 hello lads
 
 9/25/25
